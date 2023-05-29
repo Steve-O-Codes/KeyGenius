@@ -67,11 +67,12 @@ button {
 .password-display div {
   flex-basis: 25%;
   flex-grow: 1;
+  flex-shrink: 1;
   border: 1px solid #fff;
   background-color: transparent;
   color: #10b981;
   border-radius: 10px;
-  padding: 1em 0.4em;
+  padding: 1em 0;
 }
 
 .hidden {
