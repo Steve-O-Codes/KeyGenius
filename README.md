@@ -13,7 +13,7 @@ The app allows users to copy passwords on click, for easier use.
 The list of symbols, numbers and characters are chosen at random.
 These are then combined into a single array and shuffled to produce a password.
 
-The app is available to view live here - <a href="https://key-genius.netlify.app/">KeyGenius</a>
+The app is available to view live here - <a href="https://key-genius.netlify.app/" target="_blank">KeyGenius</a>
 
 ### Technologies I used 🧑‍💻:
 
